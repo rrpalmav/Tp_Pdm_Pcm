@@ -1,0 +1,2 @@
+../Drivers/API/src/API_numpad_4x4.c:12:6:numpad_4x4_init	4	static
+../Drivers/API/src/API_numpad_4x4.c:16:6:detectNumPad	4	static

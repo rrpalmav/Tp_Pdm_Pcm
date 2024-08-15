@@ -1,0 +1,6 @@
+../Drivers/API/src/ds3231.c:15:9:decToBcd	16	static
+../Drivers/API/src/ds3231.c:20:5:bcdToDec	16	static
+../Drivers/API/src/ds3231.c:26:6:Set_Time	48	static
+../Drivers/API/src/ds3231.c:41:6:Get_Time	32	static
+../Drivers/API/src/ds3231.c:54:7:Get_Temp	40	static
+../Drivers/API/src/ds3231.c:62:6:force_temp_conv	32	static
